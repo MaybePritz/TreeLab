@@ -328,14 +328,7 @@ public class TreeNode
 
 <div align="center">
 
-**⭐ Если проект помог в изучении деревьев, поставьте звезду!**
-
-[![GitHub stars](https://img.shields.io/github/stars/username/treelab?style=social)](https://github.com/username/treelab)
-
 ---
-
-### 🎯 Изучайте алгоритмы визуально с TreeLab!
-
 *Сделано с 🌳 для понимания структур данных*
 
 </div>
